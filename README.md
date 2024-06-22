@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300" alt="Profile Banner" style="width: 100%;" /> <!-- Replace with your banner image URL -->
+  <img src="Vivek Soni.png" alt="Profile Banner" style="width: 100%;" /> <!-- Replace with your banner image URL -->
 </div>
 
 ### <div align="center">I'm Vivek Soni, a passionate full-stack developer 🚀</div>  
