@@ -13,6 +13,7 @@
 
 ## My Frontend Skill Set
 
+
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" style="margin:10px;" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" style="margin:10px;" /></a>
@@ -56,8 +57,9 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 [Integration of Jira with ServiceNow](https://dev.to/vivek_soni/connecting-servicenow-to-jira-4390)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
-
