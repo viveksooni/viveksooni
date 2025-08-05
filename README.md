@@ -33,7 +33,7 @@
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="50" style="margin:10px;" />
             </a>
             <a href="https://tailwindcss.com/" target="_blank">
-              <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d30a4a5d.svg" alt="Tailwind CSS" height="50" style="margin:10px;" />
+              <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" height="50" style="margin:10px;" />
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" style="margin:10px;" />
