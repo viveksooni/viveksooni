@@ -1,4 +1,4 @@
-<!-- HERO SECTION --> <div align="center"> <img src="Vivek Soni.png" width="180" style="border-radius: 50%; margin-bottom: 10px;" /> <h1>👋 Hey, I'm Vivek Soni</h1> <h3>Frontend Developer - React & Next.js Enthusiast - UI-Focused Engineer</h3> <p> 🚀 Crafting fast, modern, and responsive web experiences with the React ecosystem <br/> 📍 Based in India | Open to exciting opportunities & collaborations </p> </div>
+ <div align="center"> <h1>👋 Hey, I'm Vivek Soni</h1> <h3>Frontend Developer - React & Next.js Enthusiast - UI-Focused Engineer</h3> <p> 🚀 Crafting fast, modern, and responsive web experiences with the React ecosystem <br/> 📍 Based in India | Open to exciting opportunities & collaborations </p> </div>
 💡 What I Do
 🎨 Build pixel-perfect, responsive UIs with React, Next.js, and modern CSS tooling
 
