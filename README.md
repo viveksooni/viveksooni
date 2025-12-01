@@ -1,64 +1,30 @@
-<div align="center">
-  <img src="Vivek Soni.png" align="center" style="width: 100%" />
-</div>
+<!-- HERO SECTION --> <div align="center"> <img src="Vivek Soni.png" width="180" style="border-radius: 50%; margin-bottom: 10px;" /> <h1>👋 Hey, I'm Vivek Soni</h1> <h3>Frontend Developer - React & Next.js Enthusiast - UI-Focused Engineer</h3> <p> 🚀 Crafting fast, modern, and responsive web experiences with the React ecosystem <br/> 📍 Based in India | Open to exciting opportunities & collaborations </p> </div>
+💡 What I Do
+🎨 Build pixel-perfect, responsive UIs with React, Next.js, and modern CSS tooling
 
-### <div align="center">I'm Vivek Soni, a passionate frontend developer 🚀</div>
+⚛️ Architect scalable frontend applications with clean state management and reusable components
 
-- 🔭 I’m currently working on exciting web development projects
-- 🌱 I’m continuously learning new technologies
-- ❓ Ask me about anything related to the modern frontend stack
-- ⚡ Fun fact: I love coding challenges and solving complex problems
+🚀 Optimize performance, accessibility, and DX across the modern frontend stack
 
-<br/>
+🛠 My Frontend Toolbox
+Core Tech & Frameworks
 
-## My Frontend Skill Set
+Styling & Tooling
 
+Testing & Cross-Platform
 
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" style="margin:10px;" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" style="margin:10px;" /></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="50" style="margin:10px;" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" height="50" style="margin:10px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" style="margin:10px;" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" style="margin:10px;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" style="margin:10px;" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="margin:10px;" /></a>
-</div>
+📌 Current Focus
+Doubling down on Next.js, app router, and performance optimization
 
-<div align="center">
-  <a href="https://webpack.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="50" style="margin:10px;" /></a>
-  <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" height="50" style="margin:10px;" /></a>
-  <a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50" style="margin:10px;" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" height="50" style="margin:10px;" /></a>
-</div>
+Implementing scalable design systems with TailwindCSS and reusable components
 
-<br/>
+Exploring testing best practices with Jest and React Testing Library
 
-## Connect with me
+🌐 My GitHub Journey
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=viveksooni&show_icons=true&theme=radical&hide_border=true" height="165px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=viveksooni&theme=radical&hide_border=true" height="165px"/> </p>
+🤝 Let’s Connect
+<div align="center"> <a href="https://github.com/viveksooni" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /> </a> <a href="https://twitter.com/sonivivek346" target="_blank"> <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" /> </a> <a href="https://dev.to/vivek_soni" target="_blank"> <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" /> </a> <a href="https://linkedin.com/in/vivek-soni-1a3b8a1b3" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /> </a> </div>
+📝 Recent Blog Post
+Integration of Jira with ServiceNow
 
-<div align="center">
-  <a href="https://github.com/viveksooni" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/sonivivek346" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://dev.to/vivek_soni" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/vivek-soni-1a3b8a1b3" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<br/>
-
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-[Integration of Jira with ServiceNow](https://dev.to/vivek_soni/connecting-servicenow-to-jira-4390)
-
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
+You can drop this whole block directly into your README.md in the root of your GitHub profile repo (named exactly as your username) to use it as your profile README.​
