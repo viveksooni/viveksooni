@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="Vivek Soni.png" width="180" style="border-radius: 50%; margin-bottom: 10px;" />
+ 
   <h1>👋 Hey, I'm Vivek Soni</h1>
   <h3>Frontend Developer • React & Next.js Enthusiast • UI-Focused Engineer</h3>
   <p>
@@ -48,7 +48,7 @@
 ## 📊 My GitHub Journey
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viveksooni&show_icons=true&theme=radical&hide_border=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=viveksooni&theme=radical&hide_border=true" height="165px"/>
+
 </p>
 
 ---
